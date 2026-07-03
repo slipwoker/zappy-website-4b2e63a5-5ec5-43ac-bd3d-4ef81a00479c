@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-4b2e63a5.zappy5.app
+https://example.com
 היכנסו עכשיו לחנות הסקוושים הכי צבעונית ברשת! מבחר ענק של סקוושים לילדים רכים ומתוקים במחירים שווים לכל כיס. התחילו ללחוץ ולהתאהב עוד היום — מלכת השקל.
 
 ### מדריך מתנות
-https://-4b2e63a5.zappy5.app/gift-guide
+https://example.com/gift-guide
 מחפשים רעיון מושלם? מדריך המתנות שלנו יראה לכם איך לבחור סקוושים לילדים שיגרמו לכל אירוע לנצנץ. מתנות ייחודיות, צבעוניות ובלתי נשכחות — כנסו עכשיו וגלו את הקסם!
 
 ### אודות
-https://-4b2e63a5.zappy5.app/about
+https://example.com/about
 סקרנים לדעת מי אנחנו? בואו לגלות את האהבה הגדולה לסקוושים לילדים שעומדת מאחורי החנות. סיפור של צבע, רכות וחיוכים שמחכה לכם — הציצו פנימה והצטרפו למסע.
 
 ### צור קשר
-https://-4b2e63a5.zappy5.app/contact
+https://example.com/contact
 יש שאלה על סקוושים לילדים? רוצים המלצה אישית? צרו קשר עכשיו וקבלו מענה מהיר ומחויך מכל הלב. אנחנו כאן כדי להפוך כל רכישה לחוויה מתוקה — מלכת השקל מחכה לשמוע מכם!
 
 ### Products
-https://-4b2e63a5.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - מלכת השקל
 
 ### Cart
-https://-4b2e63a5.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-4b2e63a5.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-4b2e63a5.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-4b2e63a5.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-4b2e63a5.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-4b2e63a5.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - מלכת השקל
 
 ### Category
-https://-4b2e63a5.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - מלכת השקל
 
 ### תודה שפניתם אלינו
-https://-4b2e63a5.zappy5.app/thank-you
+https://example.com/thank-you
 מלכת השקל - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4b2e63a5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4b2e63a5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4b2e63a5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ E-commerce / Toy & Collectibles Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4b2e63a5.zappy5.app/sitemap.xml
-- Robots: https://-4b2e63a5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4b2e63a5.zappy5.app/llms-full.txt
-- Products (JSON): https://-4b2e63a5.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-4b2e63a5.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
