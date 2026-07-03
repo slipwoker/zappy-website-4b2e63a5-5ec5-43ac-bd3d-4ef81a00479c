@@ -1,0 +1,107 @@
+# מלכת השקל — Generative Engine Optimization Map
+
+> An online store dedicated to selling squishies — soft, squishy collectible toys that are popular among kids and teens. The store likely features a fun, colorful, and playful brand identity centered around the tactile and cute nature of these products.
+
+---
+
+## Pages
+
+### בית
+https://-4b2e63a5.zappy5.app
+היכנסו עכשיו לחנות הסקוושים הכי צבעונית ברשת! מבחר ענק של סקוושים לילדים רכים ומתוקים במחירים שווים לכל כיס. התחילו ללחוץ ולהתאהב עוד היום — מלכת השקל.
+
+### מדריך מתנות
+https://-4b2e63a5.zappy5.app/gift-guide
+מחפשים רעיון מושלם? מדריך המתנות שלנו יראה לכם איך לבחור סקוושים לילדים שיגרמו לכל אירוע לנצנץ. מתנות ייחודיות, צבעוניות ובלתי נשכחות — כנסו עכשיו וגלו את הקסם!
+
+### אודות
+https://-4b2e63a5.zappy5.app/about
+סקרנים לדעת מי אנחנו? בואו לגלות את האהבה הגדולה לסקוושים לילדים שעומדת מאחורי החנות. סיפור של צבע, רכות וחיוכים שמחכה לכם — הציצו פנימה והצטרפו למסע.
+
+### צור קשר
+https://-4b2e63a5.zappy5.app/contact
+יש שאלה על סקוושים לילדים? רוצים המלצה אישית? צרו קשר עכשיו וקבלו מענה מהיר ומחויך מכל הלב. אנחנו כאן כדי להפוך כל רכישה לחוויה מתוקה — מלכת השקל מחכה לשמוע מכם!
+
+### Products
+https://-4b2e63a5.zappy5.app/products
+המוצרים שלנו - מלכת השקל
+
+### Cart
+https://-4b2e63a5.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-4b2e63a5.zappy5.app/checkout
+תשלום
+
+### Login
+https://-4b2e63a5.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-4b2e63a5.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-4b2e63a5.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-4b2e63a5.zappy5.app/product/:slug
+פרטי המוצר - מלכת השקל
+
+### Category
+https://-4b2e63a5.zappy5.app/category/:slug
+מוצרים - מלכת השקל
+
+### תודה שפניתם אלינו
+https://-4b2e63a5.zappy5.app/thank-you
+מלכת השקל - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-4b2e63a5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-4b2e63a5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-4b2e63a5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מלכת השקל
+An online store dedicated to selling squishies — soft, squishy collectible toys that are popular among kids and teens. The store likely features a fun, colorful, and playful brand identity centered around the tactile and cute nature of these products.
+
+## Services/Products
+- מכירת סקוושים
+
+## Target Audience
+- מחפשי מתנות ייחודיות
+- לילדים
+- מתנות שכולם אוהבים
+
+## Industry
+E-commerce / Toy & Collectibles Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-4b2e63a5.zappy5.app/sitemap.xml
+- Robots: https://-4b2e63a5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-4b2e63a5.zappy5.app/llms-full.txt
+- Products (JSON): https://-4b2e63a5.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-4b2e63a5.zappy5.app/product-feed.xml
